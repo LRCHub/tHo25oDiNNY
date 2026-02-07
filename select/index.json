@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "海辺の電話ボックス",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-07T10:15:41.544528Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海辺の電話ボックス (feat. 音街ウナ)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_海辺の電話ボックス_(feat._音街ウナ)_MIMI.txt"
+    }
+  ]
+}
